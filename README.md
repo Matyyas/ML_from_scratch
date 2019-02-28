@@ -3,5 +3,5 @@ Some popular ML algorithms from scratch for those curious to see what is going o
 
 1) k-NN 
 2) Linear Discriminant Analysis
-3) Naive Bayes
-4) Adaboost 
+3) Naive Bayes for text classification
+4) Adaboost for digits recognition on MNIST
