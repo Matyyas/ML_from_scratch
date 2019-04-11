@@ -1,7 +1,8 @@
-# ML_from_scratch
-Some popular ML algorithms from scratch for those curious to see what is going on under the hood and that prefer code to understand concepts.
+# Machine Learning from scratch
+Some popular ML and DL algorithms from scratch for those curious to see what is going on under the hood and that prefer code to understand mathematical concepts.
 
-1) k-NN 
-2) Linear Discriminant Analysis
-3) Naive Bayes for sentiment analysis on movie reviews
-4) Adaboost for digits recognition on MNIST
+## k-NN (TODO)
+## Linear Discriminant Analysis (TODO)
+## Naive Bayes for sentiment analysis on movie reviews
+## Adaboost for digits recognition on MNIST
+## The Convolution from scratch
